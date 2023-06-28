@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClinicaA</string>
+    <string-array name="xmlGenero">
+        <item>(Seleccionar)</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>No binario</item>
+    </string-array>
+    <string name="btnlogin">Mensaje1</string>
+</resources>
